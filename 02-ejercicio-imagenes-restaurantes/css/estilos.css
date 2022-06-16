@@ -1,0 +1,47 @@
+html {
+    background-color: #289688;
+}
+h1 {
+    color: #fcea3e;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+    border: 10px solid #FFFFFF;
+    margin: -2px;
+}
+.barcelona {
+    width: 189.5px;;
+}
+.buenos_aires {
+    width: 187px;
+}
+.madrid {
+    width: 224px;
+}
+.miami {
+    width: 189px;
+}
+.paris {
+    width: 160px;
+}
+.pipa {
+    width: 94.5px;
+}
+.rio {
+    width: 250px;
+}
+.roma {
+    width: 167px;
+}
+.rosario {
+    width: 187px;
+}
+.tokio {
+    width: 187px;
+}
+div {
+    text-align: center;
+    font-size: 50px;
+}
